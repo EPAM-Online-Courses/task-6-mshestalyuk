@@ -1,3 +1,4 @@
+package efs.task.functional;
 
 class PersonSpeakers {
 
